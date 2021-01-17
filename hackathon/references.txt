@@ -1,0 +1,12 @@
+pdf document - it is taken from a mechanical engineering course syllabus
+https://www.geeksforgeeks.org/building-basic-chrome-extension/
+https://github.com/Mfficiency
+https://stackoverflow.com/questions/13910135/how-do-i-run-a-program-locally-by-clicking-an-html-form-button
+https://github.com/Shrimant12/run-python-from-php/blob/master/run.php
+https://hackanons.com/2019/07/run-external-python-script-on-clicking-html-button-part-2.html
+https://www.youtube.com/watch?v=s6Xi7x4G7yg
+https://superuser.com/questions/670666/running-a-bash-script-from-an-html-link-or-button
+https://apple.stackexchange.com/questions/321043/open-html-file-with-google-chrome-using-command-line
+https://askubuntu.com/questions/244378/running-python-file-in-terminal
+https://stackoverflow.com/questions/41881521/how-to-execute-a-python-file-using-txt-file-as-input-to-parse-data
+https://stackabuse.com/reading-and-writing-csv-files-in-nodejs-with-node-csv/
